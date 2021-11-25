@@ -1,6 +1,6 @@
 {
     "name": "@vishwas1234567/my-first-package-from-vishwas",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "npm package tutorial for the publishing",
     "main": "index.js",
     "scripts": {
@@ -26,8 +26,8 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/vishwas1234567/npm_publish/issues"
+        "url": "https://github.com/vishwas1234567/NPM_GHCR/issues"
     },
-    "homepage": "https://github.com/vishwas1234567/npm_publish/#readme"
+    "homepage": "https://github.com/vishwas1234567/NPM_GHCR/#readme"
 }
 
