@@ -1,16 +1,33 @@
 {
-    "name": "npmghcrvishwas",
-    "description": "vishwas",
-    "authors": "vishwas",
-    "version": "1.0.0",
+    "name": "@vishwas1234567/my-first-package-from-vishwas",
+    "version": "0.0.9",
+    "description": "npm package tutorial for the publishing",
     "main": "index.js",
-    "publishConfig": {
-        "registry":"https://npm.pkg.github.com/@vishwas1234567"
-      },
     "scripts": {
-        "test": "echo \"Echo no test specified\" && exit 1"
+        "start": "node index.js"
     },
-    "keywords": [],
-    "author": "",
-    "license": "MIT"  
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vishwas1234567/NPM_GHCR.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "vishwas narayan",
+        "email": "vishwasnarayan2345@gmail.com",
+        "url": "https://hacksterdude.web.app"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vishwas1234567/npm_publish/issues"
+    },
+    "homepage": "https://github.com/vishwas1234567/npm_publish/#readme"
 }
+
