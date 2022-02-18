@@ -1,6 +1,6 @@
 {
     "name": "@vishwas1234567/my-first-package-from-vishwas",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "npm package tutorial for the publishing with 14 build",
     "main": "index.js",
     "scripts": {
